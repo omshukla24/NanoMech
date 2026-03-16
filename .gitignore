@@ -1,0 +1,19 @@
+# NEVER commit your API key
+.env
+
+# Session logs
+Logs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# OS
+.DS_Store
+Thumbs.db
