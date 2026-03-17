@@ -118,6 +118,9 @@ nanomech/
 ├── .env.example          # API key template (copy to .env)
 ├── .gitignore
 ├── README.md
+├── Dockerfile            # Container for cloud deployment
+├── deploy.sh             # Automated Google Cloud deployment script
+├── architecture.png      # System architecture diagram
 └── Logs/                 # Auto-created per session
     └── Session_YYYY-MM-DD_HH-MM-SS/
         └── Scan_1_HH-MM-SS/
@@ -157,4 +160,4 @@ Google Cloud powers every single trade analysis NanoMech produces.
 MIT License
 
 *Built for the **Gemini Live Agent Challenge 2026** | #GeminiLiveAgentChallenge*
-"# Nano_Mech" 
+"#Nano_Mech" 
