@@ -160,4 +160,3 @@ Google Cloud powers every single trade analysis NanoMech produces.
 MIT License
 
 *Built for the **Gemini Live Agent Challenge 2026** | #GeminiLiveAgentChallenge*
-"#Nano_Mech" 
